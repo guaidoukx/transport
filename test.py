@@ -1,1 +1,0 @@
-import numpy as npimport matplotlib.pyplot as pltx = np.arange(0,5,0.05)y = np.log2(x)plt.xlabel('x')plt.ylabel('y')plt.grid(b=True)plt.plot(x,y)plt.show()
